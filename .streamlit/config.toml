@@ -1,1 +1,4 @@
-
+[theme]
+base="dark"
+primaryColor="#60828c"
+font="monospace"
